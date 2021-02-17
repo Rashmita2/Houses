@@ -1,0 +1,3 @@
+1. Navbar
+2. Image grid
+3. About page
